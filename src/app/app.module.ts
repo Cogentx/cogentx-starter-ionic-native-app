@@ -19,7 +19,6 @@ import { AppRoutingModule } from './app-routing.module';
     IonicStorageModule.forRoot(),
     AppRoutingModule
   ],
-
   providers: [
     SocialSharing,
     LocalNotifications,
