@@ -1,5 +1,5 @@
 {
-  "name": "ngionicnative",
+  "name": "ionic-native",
   "integrations": {
     "capacitor": {}
   },

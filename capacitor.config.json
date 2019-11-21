@@ -1,6 +1,6 @@
 {
   "appId": "app.cogentx.starter",
-  "appName": "ngionicnative",
+  "appName": "ionic-native",
   "bundledWebRuntime": false,
   "npmClient": "npm",
   "webDir": "www",
