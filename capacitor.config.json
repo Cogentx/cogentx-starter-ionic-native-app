@@ -1,0 +1,8 @@
+{
+  "appId": "app.cogentx.starter",
+  "appName": "starter",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "cordova": {}
+}
